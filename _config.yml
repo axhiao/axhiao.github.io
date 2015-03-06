@@ -1,0 +1,7 @@
+destination: ./_site
+
+lsi:         false
+port: 4000
+highlighter: pygments
+markdown:    rdiscount
+permalink:   /:year/:month/:title.html
