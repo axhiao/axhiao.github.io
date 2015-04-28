@@ -28,7 +28,7 @@ title: 多进程与多线程的乱七八糟的事情
      <td  style="border:2px solid #888">多线程</td>
      <td  style="border:2px solid #888">优势对比</td>
   </tr>
-  <tr style="border:2px solid #888 ">
+  <tr style="border:2px solid #888">
      <td  style="border:2px solid #888">数据共享，同步</td>
      <td  style="border:2px solid #888">数据共享复杂，需要IPC；数据是分开的，同步简单　　</td>
      <td  style="border:2px solid #888">共享进程数据，数据共享简单，但是同步复杂　　</td>
