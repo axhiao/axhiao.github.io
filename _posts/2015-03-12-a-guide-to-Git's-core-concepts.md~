@@ -1,9 +1,11 @@
 ---
 layout: post
-title: a guide to  Git's core concepts
-description: You will see the explanation of Git's core concepts and commands about Git are not wanted in this blog.
-keywords: Git, Concepts
+title: a guide to  Git's core concepts 
 ---
+
+#{{page.title}}
+
+<span class="meta">March 12 2015</span>
 
 
 I've never used another VCS before I learn the Git. So I do not know much about other VCS's details. But maybe this is a good thing because you must not apply your past knowledge of another VCS to Git. Many people think that Git is hard to learn. Maybe this is one of reasons. 

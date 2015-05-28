@@ -43,7 +43,7 @@ timezone:      null
 title: Minglei Yin
 subTitle: I eat alone. I sleep alone. I cry alone. Sooooo...cool.
 description: 这是 axhiao 的又一个博客，它是基于 Jekyll 搭建起来的。
-url: http://axhiao.github.io
+url: http://pizn.github.io
 feed: /atom.xml
 
 #菜单配置
