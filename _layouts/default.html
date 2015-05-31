@@ -22,6 +22,17 @@
     <link href='http://fonts.googleapis.com/css?family=Spirax' rel='stylesheet' type='text/css'>
     <link rel="shortcut icon" href="{{ site.url }}{{ site.themes }}/images/favicon.ico" type="image/x-icon" />
     <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({
+	    extensions: ["tex2jax.js"],
+	    jax: ["input/TeX","output/HTML-CSS"],
+	    tex2jax: {
+	        inlineMath: [["$","$"],["\\(","\\)"]],
+	        displayMath: [["$$","$$"],["\[","\]"]]
+            }
+	  });
+	</script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=Tex-AMS-MML_HTMLorMML"></script>
 </head>
 <body id="violet">
     <div class="page-wrapper">
