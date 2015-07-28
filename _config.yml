@@ -21,8 +21,8 @@ future:       true
 unpublished:  false
 
 # Conversion
-markdown:     kramdown
-highlighter:  pygments
+markdown:     redcarpet
+highlighter: pygments
 lsi:          false
 excerpt_separator: "\n\n"
 
@@ -53,7 +53,7 @@ nav:
   - text: 文章归档
     url: /archives.html
   - text: 简历
-    url: http://caleb.digitcv.com/#/resume
+    url: http://yinminglei.digitcv.com/#/resume
   - text: 联系我
     url: mailto:axhiao@gmail.com
   - text: 博客源代码
